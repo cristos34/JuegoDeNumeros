@@ -1,0 +1,29 @@
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\obj\Debug\ESTUDIO LOS NUMEROS.vbprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\obj\Debug\Interop.WMPLib.dll
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\obj\Debug\ESTUDIO LOS NUMEROS.vbproj.ResolveComReference.cache
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\obj\Debug\ESTUDIO_LOS_NUMEROS.FrmDictado.resources
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\obj\Debug\ESTUDIO_LOS_NUMEROS.Resources.resources
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\obj\Debug\ESTUDIO LOS NUMEROS.vbproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\obj\Debug\ESTUDIO LOS NUMEROS.vbproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\bin\Debug\ESTUDIO LOS NUMEROS.exe.config
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\bin\Debug\ESTUDIO LOS NUMEROS.exe
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\bin\Debug\ESTUDIO LOS NUMEROS.pdb
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\bin\Debug\ESTUDIO LOS NUMEROS.xml
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\bin\Debug\Interop.WMPLib.dll
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\obj\Debug\ESTUDIO LOS NUMEROS.exe
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\obj\Debug\ESTUDIO LOS NUMEROS.xml
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\obj\Debug\ESTUDIO LOS NUMEROS.pdb
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\obj\Debug\ESTUDIO_LOS_NUMEROS.FrmGenero.resources
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\obj\Debug\ESTUDIO_LOS_NUMEROS.FrmNivelBebe.resources
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\obj\Debug\ESTUDIO_LOS_NUMEROS.FrmMenu.resources
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\obj\Debug\ESTUDIO_LOS_NUMEROS.FrmCangurito.resources
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\obj\Debug\ESTUDIO_LOS_NUMEROS.FrmResta.resources
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\obj\Debug\ESTUDIO_LOS_NUMEROS.FrmEscogerLimites.resources
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\obj\Debug\ESTUDIO_LOS_NUMEROS.frmEscogerOperacion.resources
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\obj\Debug\ESTUDIO_LOS_NUMEROS.FrmRestaTresCifras.resources
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\obj\Debug\ESTUDIO_LOS_NUMEROS.FrmRestaUnaCifra.resources
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\obj\Debug\ESTUDIO_LOS_NUMEROS.FRMsuma.resources
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\obj\Debug\ESTUDIO_LOS_NUMEROS.FrmSumaUnaCifra.resources
+C:\Users\USUARIO\source\repos\ESTUDIO LOS NUMEROS\obj\Debug\ESTUDIO_LOS_NUMEROS.FrmSumaTresCifras.resources

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ESTUDIO LOS NUMEROS
+</name>
+</assembly>
+<members>
+<member name="T:ESTUDIO_LOS_NUMEROS.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:ESTUDIO_LOS_NUMEROS.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:ESTUDIO_LOS_NUMEROS.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:ESTUDIO_LOS_NUMEROS.My.Resources.Resources.bocina1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ESTUDIO_LOS_NUMEROS.My.Resources.Resources.BOMBINAS4">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ESTUDIO_LOS_NUMEROS.My.Resources.Resources.crying_homer_sad">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ESTUDIO_LOS_NUMEROS.My.Resources.Resources.descarga">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ESTUDIO_LOS_NUMEROS.My.Resources.Resources.emoji_smiley">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ESTUDIO_LOS_NUMEROS.My.Resources.Resources.Esconder">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ESTUDIO_LOS_NUMEROS.My.Resources.Resources.fondoFrmRepasar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ESTUDIO_LOS_NUMEROS.My.Resources.Resources.gifniña">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ESTUDIO_LOS_NUMEROS.My.Resources.Resources.gifNiño">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ESTUDIO_LOS_NUMEROS.My.Resources.Resources.LAPIZ4">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ESTUDIO_LOS_NUMEROS.My.Resources.Resources.niños">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ESTUDIO_LOS_NUMEROS.My.Resources.Resources.NiñosEstudiando4">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ESTUDIO_LOS_NUMEROS.My.Resources.Resources.spongebob_bob_esponja">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ESTUDIO_LOS_NUMEROS.My.Resources.Resources.tenor">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ESTUDIO_LOS_NUMEROS.My.Resources.Resources.WhatsApp_Image_2022_01_15_at_4_21_09_PM">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
